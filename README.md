@@ -90,35 +90,9 @@ Hobbies:
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1a2n3k4u5r&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1a2n3k4u5r&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=1a2n3k4u5r&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1a2n3k4u5r&theme=react-dark"/>
-
-</p>
-
----
 
 # 🏆 GitHub Trophies
 
@@ -138,23 +112,6 @@ Hobbies:
 - ✅ Build 20+ Real Projects
 - ✅ Contribute to Open Source
 
----
-
-# 💻 Coding Activity
-
-```text
-Java         ████████████████████ 90%
-
-Python       ████████████████░░░░ 80%
-
-JavaScript   ███████████████░░░░░ 75%
-
-React        █████████████░░░░░░░ 70%
-
-Node.js      ████████████░░░░░░░░ 65%
-```
-
----
 
 # 💬 Quote
 
